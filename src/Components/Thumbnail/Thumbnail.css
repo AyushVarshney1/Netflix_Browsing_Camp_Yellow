@@ -1,0 +1,11 @@
+.thumbnail{
+    width: 19vw;
+    height: 22.5vh;
+    border-radius: 1.5%;
+    transition: 0.2s;
+}
+
+.thumbnail:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
